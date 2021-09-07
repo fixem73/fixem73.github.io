@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jimmy Lamon's Blog Site
 
 You can use the [editor on GitHub](https://github.com/fixem73/fixem73.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
